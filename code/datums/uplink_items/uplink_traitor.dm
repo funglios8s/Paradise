@@ -440,6 +440,14 @@
 	cost = 65 // Incredibly strong melee weapon on par with a chainsaw.
 	species = list("Unathi")
 
+/datum/uplink_item/species_restricted/kidan_royal_jelly
+	name = "Kidan Royal Jelly"
+	desc = "This Jelly will bond to your chemical structure, allowing you to push past your body's natural limits. \
+	You lose the ability of fine motor control, unable to fire guns, but you will be able to use powerful attacks, at the cost of your own bodies integrity."
+	reference = "RJ"
+	item = /obj
+	cost = 70 // This thing is going to be extremely defensive, and will be the center of your build.
+	species = list("Kidan")
 // -------------------------------------
 // ITEMS BLACKLISTED FROM NUCLEAR AGENTS
 // -------------------------------------
